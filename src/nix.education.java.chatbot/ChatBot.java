@@ -37,7 +37,6 @@ public class ChatBot {
             else {
                 System.out.println("Please, try again");
             }
-
         }
     }
 }
